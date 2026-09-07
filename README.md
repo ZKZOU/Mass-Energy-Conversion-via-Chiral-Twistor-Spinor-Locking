@@ -8,6 +8,15 @@ A geometric mechanism for mass-energy conversion: fixed-chirality quantum spin l
 
 ###  The Key to Mass-Energy Conversion: Fixed-Chirality Quantum Twistor Coupled with Spatial Spinor Locking
 
+The fixed chiral ground-state spin proposal in this framework was first explicitly stated on March 19, 2025 (Zou, 2025a), and systematically developed across ontological assumptions, parity non-conservation, positron-electron magnetic moment asymmetry, SU(2) chiral encoding, Higgs locking, and matter-antimatter asymmetry in the May 6, 2025 preprint (Zou, 2025b).
+
+
+[a]Zou, . zhikai . (2025). An Ontological Framework of Space‐Time‐Entropy. Zenodo. https://doi.org/10.5281/zenodo.15048612 posted on March 19, 2025.
+
+
+[b]Zou, Z. K. (2025). Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1 posted on May 6, 2025
+
+
 ## I. Clifford: The Insight That Matter Is Curvature of Space
 
 In discussing the nature of mass-energy conversion, one cannot overlook **William Kingdon Clifford**. In 1876, forty years before Einstein published general relativity, Clifford made the following assertion in a short lecture titled "On the Space-Theory of Matter":
